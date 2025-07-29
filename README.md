@@ -1,6 +1,6 @@
 "clone repository to github account"
 
-git clone https://github.com/mavlink/MAVSDK-CSharp
+git clone "Your repository/MAVSDK-CSharp"
 
 cd MAVSDK-CSharp
 
